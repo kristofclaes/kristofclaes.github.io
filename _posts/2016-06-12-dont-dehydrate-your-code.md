@@ -75,7 +75,7 @@ Books and boxes have nothing in common. They don't share any business rule. The 
 
 Don't prematurely DRY up your code. We've all learned we shouldn't prematurely optimize our code. It's time we treat DRY the same. It's OK to have similar or identical code in two or more different places. There's absolutely nothing wrong with that.
 
-It _can_ become a problem when you have to makes changes to such pieces of code, but as long as you don't, there is no problem at all.
+It _can_ become a problem when you have to make changes to such pieces of code, but as long as you don't, there's no problem at all.
 
 Let's go back to our previous example of books and boxes. Suppose a feature request comes in asking to allow books to have up to 1500 pages. With the `ContainerBase` you have two options:
 

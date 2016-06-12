@@ -9,7 +9,7 @@ timezone:         Europe/Brussels
 title:            MOIST
 tagline:          'Not too DRY'
 description:      'Because code that is too DRY will crumble into dust.'
-url:              http://kristofclaes.github.io
+url:              https://kristofclaes.github.io
 baseurl:          /
 
 author:
