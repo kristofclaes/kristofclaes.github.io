@@ -1,0 +1,26 @@
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+timezone:         Europe/Brussels
+
+# Setup
+title:            MOIST
+tagline:          'Not too DRY'
+description:      'Because code that is too DRY will crumble into dust.'
+url:              http://kristofclaes.github.io
+baseurl:          /
+
+author:
+  name:           'Kristof Claes'
+
+paginate:         5
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
