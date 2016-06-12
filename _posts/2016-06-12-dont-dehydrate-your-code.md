@@ -65,7 +65,7 @@ class Box(ContainerBase):
         self.add_to_list(item, items)
 {% endhighlight %}
 
-Look at this lovely DRY code! But then the requirements change. You need different exception messages for books and boxes. Because of thinner paper, you can now have books with 1500 pages. Specific types of items can only be appear twice in a box.
+Look at this lovely DRY code! But then the requirements change. You need different exception messages for books and boxes. Because of thinner paper, you can now have books with 1500 pages. Specific types of items can only appear twice in a box.
 
 Before you know it the `add_to_list` methods takes 6 parameters, including three booleans to toggle behavior. But hey, the code is DRY.
 
