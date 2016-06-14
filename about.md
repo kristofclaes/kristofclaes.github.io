@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: I'm a software engineer at Mobile Vikings. I mainly use Python and Django but I have a past in ASP.NET and C#. JavaScript doesn't scare me either.
 ---
 I'm a software engineer at Mobile Vikings. I mainly use Python and Django but I have a past in ASP.NET and C#. JavaScript doesn't scare me either.
 

@@ -1,5 +1,6 @@
 ---
 title: Don't dehydrate your code
+description: DRY is one of the most overused principles in software development and the world would be a better place if a lot of code was a bit more MOIST.
 ---
 
 DRY is one of the most overused principles in software development and the world would be a better place if a lot of code was a bit more MOIST. (I'm still looking for a relevant catch phrase that has MOIST as an acronym.) There, I've said it. Before you close your browser, allow me to explain myself.
