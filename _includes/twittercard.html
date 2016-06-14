@@ -1,0 +1,21 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@kristofclaes" />
+<meta name="twitter:creator" content="@kristofclaes" />
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }} &middot; {{ site.title }}" />
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}" />
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}" />
+{% endif %}
+{% if page.thumbnail %}
+  <meta name="twitter:image" content="{{ site.url }}/public/images/{{ page.thumbnail }}" />
+{% else %}
+  <meta name="twitter:image" content="{{ site.url }}/public/images/twittercard.png" />
+{% endif %}
