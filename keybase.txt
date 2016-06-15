@@ -1,0 +1,71 @@
+---
+permalink: keybase.txt
+---
+==================================================================
+https://keybase.io/kristofclaes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kristofclaes.github.io
+  * I am kristofclaes (https://keybase.io/kristofclaes) on keybase.
+  * I have a public key with fingerprint 45E3 3C6B 51FF EA89 69E9  A572 2C0A 2AAE 5014 D451
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010171954d311a4ac3218c444e1433ac0b588187e5fead34b77b2978c196673c26ec0a",
+            "fingerprint": "45e33c6b51ffea8969e9a5722c0a2aae5014d451",
+            "host": "keybase.io",
+            "key_id": "2c0a2aae5014d451",
+            "kid": "010171954d311a4ac3218c444e1433ac0b588187e5fead34b77b2978c196673c26ec0a",
+            "uid": "a3fe561ee06229b8696250400f587f19",
+            "username": "kristofclaes"
+        },
+        "service": {
+            "hostname": "kristofclaes.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465999499,
+    "expire_in": 157680000,
+    "prev": "288179c0ec09c655f89a8a8c3e2df3213584a8fdb73e01a380bc8b00391ebc78",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJtbAxBGL7TIq6kRCuhEulGfCSn2dnd2Z25CCEtoUQkEn7gzO7O3i3n
+9uzu9eOaJj6DCGloKogGQRCJqPhTrfaqPi4NrSJB6itOGiEijVYq8TFb/PPT/JnM
+zPM88zxP3s4JOb6Av3nemcbWmxsK/V3p80nfWrLpQA2nWno1F6rhttCRjcZ06rjh
+LabOhTge8EABGEq6CACRiCYKAGmSJFEgiSLReBUiBJBCoUGJLkqqoqgCVpAGsCwr
+oibIVOMJF+QMMx6hdsI24y6TlSAVRU1WITAYD2EZU0ygIggMLBBCIQ8kXYKAEaOW
+4zGYOZU4tMS02B07hEfs/QP/n30nR+SIaFAoA0p5WRCwimQsC5CXeN6ASDEA9oAO
+teNkK/W82qbjWoYWI9ThaoMce6kwNeqV66X5B6okYrrRpPo7XcK2XEuzYgwTdd2E
+E/I03OqER6qkaviPXFg14zprlTEqqO2YVpwLAYbUXNPTB5IMMcYSxkGOViVMm4ZN
+DwEVGfFsef/QCq9DVoSCNZ4FxpoMoYEwQQRpIhV0g9UmQiQRZOiqIlIeEBHxqoZU
+nhcxoKqmIM4LuC1uMW0m6pII03TMSJy4SZtytR3t63N9/oBvzOhR3rj5AuMm/h3C
+GcLYn0tadwxxsTfLU4+KF18d9WN8P1c48Xi2t7yrIO97wDyaKSvInjoYen5vQapf
+PfTg9exskbHw4fDZVN/0U0OBho/7prza+fjTOfmS0reYlu3O1EWWfXvV3Wjdyn+W
+qs4pfrJn79TAilVb0duTMD3gn396VmZSQemTnskX5zjHmuoy5U/XlB7dvmew9PCu
+vbWDhalpgfT7YH1Vn3hkefbLrmMnZq671ti7IZW7pM5sePFyUcv+quudm+2WnprL
+lfUzuturzcH8ZQeWZm4PGfc7onl35rzXm1cb/U9fFL27sr9hIDBc3xXHaxTn9Icr
+0bYb+RvbyprWp79eWPnZP/fDwJmmqXfLD/4CGRtLvA==
+=eNkc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kristofclaes
+
+==================================================================
