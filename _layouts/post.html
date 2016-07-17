@@ -4,6 +4,12 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <div class="post-info group">
+    <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date_to_string }}</span>
+    <span class="post-comment-count"><i class="fa fa-comments" aria-hidden="true"></i> <span class="disqus-comment-count" data-disqus-identifier="{{ page.id }}"></span></span>
+  </div>
+
   {{ content }}
 </div>
+{% include comments.html %}

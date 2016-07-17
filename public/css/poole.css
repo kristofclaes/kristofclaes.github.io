@@ -355,11 +355,23 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Meta data line below post title */
-.post-date {
-  display: block;
+.post-info {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: 0.8rem;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.post-date, .post-comment-count {
+  display: block;
+  float: left;
+  margin-right: 1rem;
 }
 
 /* Related posts */
